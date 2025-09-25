@@ -21,7 +21,7 @@ Mayqueen is delighted to sign a memorandum of cooperation with TOPST, and we loo
 #### Overview
 |                         Powerful Edge AI SBC                      | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-|<img src="https://github.com/user-attachments/assets/20f45576-0f88-42ca-b861-9e697fb2b591" width="200"/> | **D3-G** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> [Datasheet](https://www.dropbox.com/scl/fi/3205k9dpmnnwjb1wq5d9y/D3-G_flyer.pdf?rlkey=r91bl5qkgzz9vj7766br9pox1&st=qjywypie&dl=0) | Ubuntu LTS <br /> Android LTS <br /> Yocto LTS <br /> | Coming soon |
+|<img src="https://github.com/user-attachments/assets/20f45576-0f88-42ca-b861-9e697fb2b591" width="200"/> | **D3-G** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> [Datasheet (online)](https://topst.ai/tech/docs?page=b37ce8a1e3a104cc5407283edc9118ea6f337565) | Ubuntu LTS <br /> Android LTS <br /> Yocto LTS <br /> | Coming soon |
 
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
