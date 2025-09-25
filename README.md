@@ -26,6 +26,7 @@ Mayqueen is delighted to sign a memorandum of cooperation with TOPST, and we loo
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | CPU | **Telechips Dolphin3** <br /> ARM64 Quad core Cortex A72 (1.7GHz) + Quad core Cortex A53 (1.45GHz) <br> ARM32 Solo core Cortex R5 (600MHz) |
+| GPU | PowerVR 9xTP-GT9524 |
 | Memory | 8GB LPDDR4 |
 | Storage | 32GB eMMC <br /> 1x uSD slot |
 | Display | 1x DP port <br> DP 1.4 * 1-ch, 4-lane (8.1 Gbps/lane) <br> 1. By using MST 4 displays <br> Option1: 4K60 x1 + FHD60 x3 <br> Option2: FHD60 x4 <br> 2. Daisy Chain: FHD60 x3 |
